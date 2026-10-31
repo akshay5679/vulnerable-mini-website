@@ -1,2 +1,2 @@
 # vulnerable-mini-website
-A deliberately vulnerable mini website an authorized web-security testing demonstration.
+A deliberately vulnerable mini website for an authorized web-security testing.
